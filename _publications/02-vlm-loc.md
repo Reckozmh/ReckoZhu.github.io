@@ -5,15 +5,15 @@ category: conferences
 date: 2026-09-01
 year: 2026
 venue: "NeurIPS"
+venue_url: "https://neurips.cc/Conferences/2026"
+status: "Accept"
 authors: "M. Zhu, J. Wu, Y. Guo, W. Li, P. Shang, S. Ao, et al."
 image: "/images/publications/vlm-loc.png"
-paperurl:
-posterurl: "/files/papers/vlm-loc-poster.pdf"
+paperurl: "/files/papers/vlm-loc.pdf"
 codeurl:
 projecturl:
 selected: true
 order: 2
-note: "Accepted at NeurIPS 2026 (first author). A poster PDF was supplied; TODO: add the paper PDF."
 ---
 
-Accepted at NeurIPS 2026. Paper, code, and project-page links are still needed.
+Accepted at NeurIPS 2026.

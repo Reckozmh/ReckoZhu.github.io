@@ -5,14 +5,16 @@ category: conferences
 date: 2026-02-01
 year: 2026
 venue: "CVPR"
+venue_url: "https://cvpr.thecvf.com/Conferences/2026"
+status: "Accept"
+highlight: true
 authors: "J. Wu, M. Zhu*, D. Liu, et al."
 image: "/images/publications/leader.png"
 paperurl: "/files/papers/leader.pdf"
-codeurl:
+codeurl: "https://github.com/JiansW/LEADER"
 projecturl:
 selected: true
-order: 6
-note: "Accepted at CVPR 2026 (co-first author, Highlight; TODO: verify the supplied highlight-rate figure)."
+order: 7
 ---
 
-Accepted at CVPR 2026. Code and project-page links are still needed.
+Accepted at CVPR 2026 as a Highlight paper.

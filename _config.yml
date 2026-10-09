@@ -3,21 +3,19 @@ locale: "en-US"
 site_theme: "default"
 title: "Recko Zhu"
 title_separator: "·"
-name: &name "Recko Zhu"
+name: &name "MingHang Zhu"
 description: &description "PhD Candidate at Xiamen University working on multimodal intelligence, 3D vision, and localization."
 url: "https://reckozmh.github.io"
 baseurl: "/ReckoZhu.github.io"
 repository: "Reckozmh/ReckoZhu.github.io"
 
-# TODO: Confirm the preferred full English/Chinese display name.
 author:
   avatar: "profile.jpg"
-  name: "Recko Zhu"
+  name: "MingHang Zhu"
   bio: "PhD Candidate"
   location: "Xiamen, China"
   employer: "Xiamen University"
   email: "judemihoo@gmail.com"
-  cv: "/cv/"
   googlescholar: "https://scholar.google.com/citations?user=YILgmXQAAAAJ&hl=zh-CN&oi=ao"
   github: "Reckozmh"
 
@@ -41,7 +39,7 @@ atom_feed:
 # SEO and social metadata
 social:
   type: Person
-  name: "Recko Zhu"
+  name: "MingHang Zhu"
   links:
     - "https://github.com/Reckozmh"
     - "https://scholar.google.com/citations?user=YILgmXQAAAAJ&hl=zh-CN&oi=ao"

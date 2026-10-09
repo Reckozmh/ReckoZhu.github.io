@@ -1,0 +1,36 @@
+{% assign publication = include.publication %}
+<article class="publication-card">
+  <div class="publication-card__media">
+    {% if publication.image %}
+      <img src="{{ publication.image | relative_url }}" alt="Illustration for {{ publication.title }}" loading="lazy">
+    {% else %}
+      <div class="publication-card__placeholder" role="img" aria-label="Publication image not yet provided">Image<br>TODO</div>
+    {% endif %}
+  </div>
+  <div class="publication-card__content">
+    <p class="publication-card__meta">{{ publication.venue }} · {{ publication.year }}</p>
+    <h3>{{ publication.title }}</h3>
+    <p class="publication-card__authors">{{ publication.authors }}</p>
+    {% if publication.note %}<p class="publication-card__note">{{ publication.note }}</p>{% endif %}
+    <div class="publication-card__actions" aria-label="Resources for {{ publication.title }}">
+      {% if publication.paperurl %}
+        <a href="{{ publication.paperurl | relative_url }}"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
+      {% else %}
+        <span class="is-disabled" title="Paper link not yet provided">Paper (TODO)</span>
+      {% endif %}
+      {% if publication.posterurl %}
+        <a href="{{ publication.posterurl | relative_url }}"><i class="fas fa-image" aria-hidden="true"></i> Poster</a>
+      {% endif %}
+      {% if publication.codeurl %}
+        <a href="{{ publication.codeurl }}"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
+      {% else %}
+        <span class="is-disabled" title="Code link not yet provided">Code (TODO)</span>
+      {% endif %}
+      {% if publication.projecturl %}
+        <a href="{{ publication.projecturl }}"><i class="fas fa-globe" aria-hidden="true"></i> Project</a>
+      {% else %}
+        <span class="is-disabled" title="Project link not yet provided">Project (TODO)</span>
+      {% endif %}
+    </div>
+  </div>
+</article>

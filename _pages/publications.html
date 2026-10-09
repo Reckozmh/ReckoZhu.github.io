@@ -1,0 +1,27 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+<p class="page-intro">Selected and complete publication records from the supplied materials. Author order and venue labels are preserved as provided.</p>
+
+{% assign ordered_publications = site.publications | sort: "order" %}
+<div class="publication-list publication-list--full">
+  {% for publication in ordered_publications %}
+    {% include publication-card.html publication=publication %}
+  {% endfor %}
+</div>
+
+## Materials awaiting metadata
+
+<div class="todo-panel">
+  <strong>TODO: Complete bibliographic records</strong>
+  <p>The supplied folder also contains PDFs for SPAR, DiffLo, and RCP-LO, but the publication list does not provide complete, conflict-free title/author/venue metadata for them.</p>
+  <div class="pending-links">
+    <a href="{{ '/files/papers/spar.pdf' | relative_url }}">SPAR PDF</a>
+    <a href="{{ '/files/papers/difflo.pdf' | relative_url }}">DiffLo PDF</a>
+    <a href="{{ '/files/papers/rcp-lo.pdf' | relative_url }}">RCP-LO PDF</a>
+  </div>
+</div>

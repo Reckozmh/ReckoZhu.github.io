@@ -65,8 +65,10 @@ I received my academic master’s degree in Computer Technology from Huaqiao Uni
 ## Academic Services
 
 <ul class="service-list">
-  <li><time>2023</time><span>Volunteer, <a class="venue-link" href="https://conf.csig.org.cn/10346.html">The 4th National SLAM Technology Forum</a>, Xiamen University</span></li>
-  <li><time>2025</time><span>Volunteer, <a class="venue-link" href="https://news.xmu.edu.cn/info/1003/500942.htm"><strong>The 13th International Conference on Mobile Mapping Technology (MMT)</strong></a></span></li>
+  <li><time>2023</time><span>Volunteer, <a class="venue-link" href="https://conf.csig.org.cn/10346.html"><strong>The 4th National SLAM Technology Forum</strong></a>, Xiamen University</span></li>
+  <li><time>2024</time><span>Attendee, <a class="venue-link" href="https://www.beidou.gov.cn/yw/xwzx/202409/t20240913_28361.html"><strong>The 3rd International Summit on BDS Applications</strong></a>, Zhuzhou</span></li>
+  <li><time>2024</time><span>Attendee, <a class="venue-link" href="https://conf.csig.org.cn/10398.html"><strong>The 5th National SLAM Technology Forum</strong></a>, Xi'an</span></li>
+  <li><time>2025</time><span>Volunteer, <a class="venue-link" href="https://news.xmu.edu.cn/info/1003/500942.htm"><strong>The 13th International Conference on Mobile Mapping Technology (MMT)</strong></a>, <strong>Xiamen</strong></span></li>
 </ul>
 
 ## Honors and Awards

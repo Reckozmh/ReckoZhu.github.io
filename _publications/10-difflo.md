@@ -2,7 +2,7 @@
 title: "DiffLO: Semantic-Aware LiDAR Odometry with Diffusion-Based Refinement"
 collection: publications
 category: conferences
-date: 2026-02-01
+date: 2025-02-01
 year: 2025
 venue: "CVPR"
 venue_url: "https://cvpr.thecvf.com/Conferences/2025"

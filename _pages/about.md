@@ -45,10 +45,10 @@ I received my academic master’s degree in Computer Technology from Huaqiao Uni
   <div class="news-item"><time>09 / 2026</time><p><strong>LINK</strong> was accepted by <a class="venue-link" href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a> <strong>(first author)</strong>.</p></div>
   <div class="news-item"><time>09 / 2026</time><p><strong>BiLi</strong> was accepted by <a class="venue-link" href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a> <strong>(first author)</strong>.</p></div>
   <div class="news-item"><time>09 / 2026</time><p><strong>SPAR</strong> was accepted by <a class="venue-link" href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a>.</p></div>
-  <div class="news-item"><time>09 / 2026</time><p><strong>TempLoc</strong> was accepted by <a class="venue-link" href="https://2026.acmmm.org/">ACM MM 2026</a> as an <strong>Oral</strong> paper <strong>(first author)</strong>.</p></div>
-  <div class="news-item"><time>02 / 2026</time><p><strong>LEADER</strong> was accepted by <a class="venue-link" href="https://cvpr.thecvf.com/Conferences/2026">CVPR 2026</a> <strong>(co-first author)</strong>, Highlight.</p></div>
+  <div class="news-item"><time>09 / 2026</time><p><strong>TempLoc</strong> was accepted by <a class="venue-link" href="https://2026.acmmm.org/">ACM MM 2026</a> as an <strong class="news-emphasis--red">Oral</strong> paper <strong>(first author)</strong>.</p></div>
+  <div class="news-item"><time>02 / 2026</time><p><strong>LEADER</strong> was accepted by <a class="venue-link" href="https://cvpr.thecvf.com/Conferences/2026">CVPR 2026</a> <strong>(co-first author)</strong>, <strong class="news-emphasis--red">Highlight</strong>.</p></div>
   <div class="news-item"><time>10 / 2025</time><p><strong>RCP-LO</strong> was accepted by <a class="venue-link" href="https://aiconfpaper.com/conferences/aaai-2025">AAAI 2025</a>.</p></div>
-  <div class="news-item"><time>02 / 2026</time><p><strong>DiffLO</strong> was accepted by <a class="venue-link" href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</p></div>
+  <div class="news-item"><time>02 / 2025</time><p><strong>DiffLO</strong> was accepted by <a class="venue-link" href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</p></div>
 </div>
 
 ## Selected Publications
@@ -61,6 +61,13 @@ I received my academic master’s degree in Computer Technology from Huaqiao Uni
 </div>
 
 <p class="section-link"><a href="{{ '/publications/' | relative_url }}">View all publications <span aria-hidden="true">→</span></a></p>
+
+## Academic Services
+
+<ul class="service-list">
+  <li><time>2023</time><span>Volunteer, <a class="venue-link" href="https://conf.csig.org.cn/10346.html">The 4th National SLAM Technology Forum</a>, Xiamen University</span></li>
+  <li><time>2025</time><span>Volunteer, <a class="venue-link" href="https://news.xmu.edu.cn/info/1003/500942.htm"><strong>The 13th International Conference on Mobile Mapping Technology (MMT)</strong></a></span></li>
+</ul>
 
 ## Honors and Awards
 
@@ -77,11 +84,4 @@ I received my academic master’s degree in Computer Technology from Huaqiao Uni
   <li><time>2020</time><span>National Third Prize, Huawei Cup China Postgraduate Mathematical Contest in Modeling</span></li>
   <li><time>2021</time><span>National Second Prize, Huawei Cup China Postgraduate Mathematical Contest in Modeling</span></li>
   <li><time>2022</time><span>National Second Prize, Huawei Cup China Postgraduate Mathematical Contest in Modeling</span></li>
-</ul>
-
-## Academic Services
-
-<ul class="service-list">
-  <li><time>2023</time><span>Volunteer, <a class="venue-link" href="https://conf.csig.org.cn/10346.html">The 4th National SLAM Technology Forum</a>, Xiamen University</span></li>
-  <li><time>2023</time><span>Volunteer, <a class="venue-link" href="https://news.xmu.edu.cn/info/1003/500942.htm">The 13th International Conference on Mobile Mapping Technology (MMT)</a></span></li>
 </ul>

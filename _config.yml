@@ -6,8 +6,8 @@ title_separator: "·"
 name: &name "MingHang Zhu"
 description: &description "PhD Candidate at Xiamen University working on multimodal intelligence, 3D vision, and localization."
 url: "https://reckozmh.github.io"
-baseurl: "/ReckoZhu.github.io"
-repository: "Reckozmh/ReckoZhu.github.io"
+baseurl: ""
+repository: "Reckozmh/reckozmh.github.io"
 
 author:
   avatar: "profile.jpg"
